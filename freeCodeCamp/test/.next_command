@@ -188,3 +188,4 @@ mkdir assets
 cd assets
 mkgir images
 mkdir images
+cd images
