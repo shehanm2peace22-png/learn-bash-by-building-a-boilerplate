@@ -181,3 +181,5 @@ __vsc_prompt_cmd_original
 find -name styles.css
 find -name src
 find
+cd clirnt
+cd client
