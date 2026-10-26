@@ -163,3 +163,4 @@ rm lato tts fonts
 rm lato.tts fonts
 touch lato.ttf
 mv lato.ttf fonts
+mv menlo.otf fonts
