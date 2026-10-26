@@ -189,3 +189,4 @@ cd assets
 mkgir images
 mkdir images
 cd images
+touch background.jpg
