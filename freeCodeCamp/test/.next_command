@@ -183,3 +183,5 @@ find -name src
 find
 cd clirnt
 cd client
+mkdir client
+mkdir assets
