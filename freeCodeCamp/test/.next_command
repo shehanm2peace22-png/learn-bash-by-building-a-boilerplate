@@ -105,3 +105,7 @@ touch lato.font
 touch menloy.font
 touch menlo.font
 ls --color=auto
+touch codeAlly.svg
+touch codeAllu.svg
+touch codeAlly.svg
+touch CodeAlly.svg
