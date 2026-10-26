@@ -52,3 +52,5 @@ cd ..
 ls --color=auto
 more package.json
 clear
+li
+ls --color=auto
