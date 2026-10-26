@@ -122,3 +122,5 @@ ls --color=auto
 rm background.jpg
 __vsc_prompt_cmd_original
 ls --color=auto
+cd header.png
+cp header.png images
